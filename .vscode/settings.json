@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascriptreact",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "streambuf": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp"
+    }
+}
